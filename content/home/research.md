@@ -9,7 +9,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "talk"
+  page_type = "post"
   
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
@@ -60,22 +60,13 @@ subtitle = ""
  css_class = ""
 +++
 
-Advances in genomic and computational technologies have transformed our evolutionary theories from formalized thought experiments into predictive models.
-Projects in our lab harnesses these technologies to understand enigmatic
+Advances in genomic and computational technologies are revolutionizing our understanding of cancer biology. 
+We believe these advances will only make sense ‘except in the light of evolution.’ 
 
+Specifically, we believe that evolutionary theory can help us understand the most enigmatic aspects of tumor biology. 
+For example, why do most tumors never progress to malignancy? Why are mutations that drive growth in one tumor maladaptive in another? 
+Similarly, why do particular combinations of mutations drive carcinogenesis, while other combinations fail? 
+And why do most other ‘passenger’ mutations appear to be unaffected by natural selection?
 
-This continuing progress rests on our ability to leverage these technologies to identify valid theoretical assumptions, refine models, and better
-characterize a tumor’s evolutionary state.
-
-## Theoretical Assumptions
-
-Our lab studies enigmatic aspects of tumor evolution.
-For example, why do most tumors never progress to malignancy?
-Why are the mutations that drive carcinogenesis sometimes maladaptive to tumor growth? And how do all the other ‘passenger’ mutations affect tumor
-evolution?
-
-## Quantifying the fitness landscape of tumor evolution
-
-Blah blah blah
-
+Our lab pursues an interdisciplinary and inter-laboratory approach to leverage our collective talents to combine new technologies, theories, and experimental approaches.
 

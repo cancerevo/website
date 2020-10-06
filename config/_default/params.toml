@@ -89,7 +89,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "christopher.mcfarland@case.edu"
-phone = ""
+phone = "(518) 860-2834"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -107,12 +107,12 @@ directions = "Enter Biomedical Research Building and take elevator to Office X o
 office_hours = [] #["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = ""
+appointment_url = "" #Pronouns: he/him"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/cd_mcfarland"},
+  #{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/cd_mcfarland"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -267,6 +267,7 @@ plugins_js  = []
   #   3: OpenStreetMap (Mapbox)
   engine = 1
   api_key = "AIzaSyCKmrXDKbgWV9EJHxd4lcJ4oHBJRCgFDHs"
+  #api_key='<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCKmrXDKbgWV9EJHxd4lcJ4oHBJRCgFDHs&callback=initMap" type="text/javascript"></script>'
   zoom = 15
 
 ############################
