@@ -27,6 +27,14 @@ lastmod: 2020-09-11T20:06:27-06:00
 featured: false
 draft: false
 
+links:
+- icon: github
+  icon_pack: fab
+  name: code
+  url: https://github.com/mirnylab/pdSim
+- name: Research Highlight
+  url: https://www.nature.com/articles/nrc3488
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

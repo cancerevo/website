@@ -19,6 +19,13 @@ date: '2017-05-01'
 lastmod: 2020-09-11T20:06:29-06:00
 featured: false
 draft: false
+links:
+- icon: github
+  icon_pack: fab
+  name: code
+  url: https://github.com/petrov-lab/tuba-seq
+- name: Research Highlight
+  url: https://www.nature.com/articles/nrg.2017.50
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

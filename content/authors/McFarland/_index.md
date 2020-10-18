@@ -10,12 +10,15 @@ title: Christopher McFarland
 superuser: true
 
 # Role/position
-role: Assistant Professor of Genetics & Genome Sciences, and Case Comprehensive Cancer Center
+role: Assistant Professor 
 
 # Organizations/Affiliations
 organizations:
 - name: Case Western Reserve University
+- name: Department of Genetics & Genome Sciences
   url: "https://case.edu/medicine/genetics/"
+- name: Case Comprehensive Cancer Center
+  url: "https://case.edu/cancer/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

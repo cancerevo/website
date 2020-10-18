@@ -16,6 +16,13 @@ lastmod: 2020-09-11T20:06:26-06:00
 featured: false
 draft: false
 
+links:
+- icon: github
+  icon_pack: fab
+  name: code
+  url: https://github.com/petrov-lab/cancer-HRI
+
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

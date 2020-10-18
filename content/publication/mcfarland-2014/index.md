@@ -24,6 +24,10 @@ image:
   focal_point: ''
   preview_only: false
 
+links: 
+- name: Research Highlight
+  url: http://www.sciencemag.org/content/346/6209/597.7.short
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
