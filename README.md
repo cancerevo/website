@@ -4,7 +4,7 @@
 
 This static website is built using the [Academic Template](https://themes.gohugo.io/academic/) for hugo. It is deployed by Netlify at www.mcfarlandlab.org. After installing hugo, you can host this website locally by 
 ```sh
-$ git clone https://github.com/cd-mcfarland/website.git
-$ cd website
-$ hugo server -D
+git clone https://github.com/cd-mcfarland/website.git
+cd website
+hugo server -D
 ```
