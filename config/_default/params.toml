@@ -110,7 +110,7 @@ address = {street = "2109 Adelbert Rd", city = "Cleveland", region = "OH", postc
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "41.504530", longitude = "-81.604265"}
+coordinates = {latitude = "41.50453", longitude = "-81.60427"}
 
 # Directions for visitors to locate you.
 directions = "Enter Biomedical Research Building and take elevator to Office X on Floor X"
@@ -239,7 +239,7 @@ plugins_js  = []
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  engine = 0
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
@@ -269,8 +269,6 @@ plugins_js  = []
   #   3: OpenStreetMap (Mapbox)
   engine = 1
   api_key = "AIzaSyBmoPm4gWlgnNq6CZGhRPiXsbRuTxSYgGY"
-  #api_key='<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCKmrXDKbgWV9EJHxd4lcJ4oHBJRCgFDHs&callback=initMap" type="text/javascript"></script>'
-  #
   zoom = 15
 
 ############################

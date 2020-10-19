@@ -73,6 +73,7 @@ user_groups:
  - Principal Investigator
 
 ---
+
 As a graduate student under the guidance of Prof. [Leonid Mirny](http://mirnylab.mit.edu/), 
 Chris argued that tumors harbor many 'deleterious passenger' mutations that are harmful to cancer cells, yet nevertheless accumulate and alter progression. 
 These mutations may be exploitable by both future and existing therapies.
