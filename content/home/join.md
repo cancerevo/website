@@ -14,10 +14,11 @@ Everyone in the Cancer Evolution group is committed to fostering a better living
 
 <details>
  <summary><b>Postdoctoral Scholars</b></summary>
-We are directly recruiting postdocs! Informal inquiries and applications (CV & two reference letters) are welcome. 
+<p><i>We are recruiting postdocs today!</i> Informal inquiries and applications (CV & two reference letters) are welcome. 
 Please email <a href="#contact">Prof. McFarland</a>. 
-The Case Comprehensive Cancer Center also has several
-<a href="https://case.edu/cancer/training-education/postdoctoral-training">internal fellowship</a> that we can discuss (many require US citizenship). 
+</p>
+There are also several internal and external fellowships/supplements
+(e.g. <a href="https://case.edu/cancer/training-education/postdoctoral-training">CoGEC</a>) that I am happy to discuss and sponsor (some require US citizenship). 
 </details>
 
 <details>
