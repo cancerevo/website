@@ -61,7 +61,7 @@ subtitle = ""
 +++
 
 Advances in genomic and computational technologies are revolutionizing our understanding of cancer biology. 
-We believe these advances will only make sense ‘except in the light of evolution.’ 
+We believe these advances will make sense ‘only in the light of evolution.’ 
 
 Specifically, we believe that evolutionary theory can help us understand the most enigmatic aspects of tumor biology. 
 For example, why do most tumors never progress to malignancy? Why are mutations that drive growth in one tumor maladaptive in another? 
