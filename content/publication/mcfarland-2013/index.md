@@ -32,7 +32,9 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/mirnylab/pdSim
-- name: Research Highlight
+- icon: lightbulb
+  icon_pack: far
+  name: Research Highlight
   url: https://www.nature.com/articles/nrc3488
 
 # Featured image

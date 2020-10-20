@@ -25,7 +25,9 @@ image:
   preview_only: false
 
 links: 
-- name: Research Highlight
+- icon: lightbulb
+  icon_pack: far
+  name: Research Highlight
   url: http://www.sciencemag.org/content/346/6209/597.7.short
 
 # Projects (optional).

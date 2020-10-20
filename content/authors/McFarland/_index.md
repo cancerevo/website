@@ -65,7 +65,8 @@ social:
   link: https://scholar.google.com/citations?user=TJk4tU0AAAAJ
 - icon: cv
   icon_pack: ai
-  link: files/McFarland_CV.docx
+  link: files/McFarland_CV.pdf
+
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

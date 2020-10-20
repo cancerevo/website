@@ -24,7 +24,9 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/petrov-lab/tuba-seq
-- name: Research Highlight
+- icon: lightbulb
+  icon_pack: far
+  name: Research Highlight
   url: https://www.nature.com/articles/nrg.2017.50
 
 # Featured image
