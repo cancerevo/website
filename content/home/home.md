@@ -14,6 +14,6 @@ weight = 10
 # Mission
 The development of cancer is a somatic evolutionary process. 
 Evolving diseases are difficult to treat because they adapt to treatment and because they continually diversify --- _from so simple a beginning, endless forms evolved_.
-We are integrating evolutionary theory with quantitative experimentation and genomics to better understand and manage this process. 
+We are integrating evolutionary theory with quantitative experimentation and genomics to better understand and manage cancer. 
 
 
