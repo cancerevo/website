@@ -74,5 +74,3 @@ Specifically, we believe that evolutionary theory can help answer some of the mo
 
 To answer these questions, our lab pursues an interdisciplinary and inter-laboratory approach that combines experiment and theory with the development of new technologies.
 
-# Our lab pursues an interdisciplinary and inter-laboratory approach to leverage our collective talents to combine new technologies, theories, and experimental approaches.
-
