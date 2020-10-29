@@ -66,9 +66,7 @@ Specifically, we believe that evolutionary theory can help answer some of the mo
 
 * Why do most tumors never progress to malignancy? 
 
-* Why are mutations that drive growth in one tumor maladaptive in another? 
-
-* Similarly, why do particular combinations of mutations drive carcinogenesis, while others fail? 
+* Why are mutations that drive growth in one tumor maladaptive in another (and why do some combinations of mutations drive carcinogenesis, while others fail)? 
 
 * Why do most other ‘passenger’ mutations appear to be unaffected by natural selection?
 
