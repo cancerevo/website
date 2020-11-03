@@ -26,7 +26,7 @@
     Content-Type = "application/rss+xml"
 
 [[redirects]]
-from = "zoom.mcfarlandlab.org"
+from = "/zoom"
 to = "https://cwru.zoom.us/j/8863868547?pwd=QWpndGJKUlB5YXc5NzgxU0w4L2dmUT09"
 status 301
 force = true
