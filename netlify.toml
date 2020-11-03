@@ -26,12 +26,6 @@
     Content-Type = "application/rss+xml"
 
 [[redirects]]
-  from = "/search"
-  to = "google.com"
-  status = 200
-  force = true
-
-[[redirects]]
   from = "/zoom"
   to = "https://cwru.zoom.us/j/8863868547?pwd=QWpndGJKUlB5YXc5NzgxU0w4L2dmUT09"
   status = 301
