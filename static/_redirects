@@ -1,4 +1,5 @@
 # see https://docs.netlify.com/routing/redirects/
 /zoom       https://cwru.zoom.us/j/8863868547?pwd=QWpndGJKUlB5YXc5NzgxU0w4L2dmUT09
-
+/JCzoom     https://berkeley.zoom.us/j/96608174557
+/JC         https://tinyurl.com/yaqegysy
 
