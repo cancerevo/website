@@ -112,7 +112,7 @@ address = {street = "2109 Adelbert Rd", city = "Cleveland", region = "OH", postc
 coordinates = {latitude = "41.50453", longitude = "-81.60427"}
 
 # Directions for visitors to locate you.
-directions = "Enter Biomedical Research Building and take elevator to Office X on Floor X"
+directions = "Biomedical Research Building, Rm. 821, 2109 Adelbert Rd, Cleveland, OH 44106"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
