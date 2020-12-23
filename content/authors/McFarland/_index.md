@@ -22,8 +22,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-  Chris graduated from the University of Rochester with B.S. degrees in Biochemistry and Physics. 
-  He then obtained a PhD from Harvard University in Biophysics under the guidance of [Leonid Mirny](http://mirnylab.mit.edu/), 
+  Chris obtained a PhD from Harvard University in Biophysics under the guidance of [Leonid Mirny](http://mirnylab.mit.edu/), 
   studying the effects of deleterious passenger mutations in cancer. 
   Working with [Dmitri Petrov](http://petrov.stanford.edu/) and [Monte Winslow](https://med.stanford.edu/winslowlab.html) at Stanford University as a Postdoc,
   Chis helped develop a high-throughput technology to study combinatorial tumor suppressor losses in mice and their effects on clonal dynamics. 
@@ -75,8 +74,10 @@ user_groups:
 
 ---
 
-As a graduate student under the guidance of Prof. [Leonid Mirny](http://mirnylab.mit.edu/), 
-Chris argued that tumors harbor many 'deleterious passenger' mutations that are harmful to cancer cells, yet nevertheless accumulate and alter progression. 
+Chris began doing scientific research, at the age of 16, in the lab of [Dr. Randall Morse](https://www.wadsworth.org/senior-staff/randall-morse).
+He then attended the University of Rochester, graduating with B.S. degrees in Biochemistry and Physics, and continued his passion for research in the [Dumont Lab](https://www.urmc.rochester.edu/people/20969202-mark-e-dumont).
+
+As a graduate student under the guidance of Prof. [Leonid Mirny](http://mirnylab.mit.edu/), Chris argued that tumors harbor many 'deleterious passenger' mutations that are harmful to cancer cells, yet nevertheless accumulate and alter progression. 
 These mutations may be exploitable by both future and existing therapies.
 
 Working with [Dmitri Petrov](http://petrov.stanford.edu/) and [Monte Winslow](https://med.stanford.edu/winslowlab.html) at Stanford University as a Postdoc,
