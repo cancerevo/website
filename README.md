@@ -4,7 +4,7 @@
 
 This static website is built using the [Academic Template](https://themes.gohugo.io/academic/) for hugo. It is deployed by Netlify at www.mcfarlandlab.org. 
 
-To onboard new labmembers to general software development procedures for the lab, I've created a short tutorial explaining how you can add yourself to this website. This task should familiarize you with Package Management Systems for installing software, and git -- the most common version control system in use today. If you haven't used these systems, I'd first read about them a little bit. 
+To onboard new labmembers to general software development procedures for the lab, I've created a short tutorial explaining how you can add yourself to this website. This task should familiarize you with Package Management Systems for installing software, and git - the most common version control system in use today. If you haven't used these systems, I'd first read about them a little bit. 
 
 The two most common package management systems are [apt (for linux/ubuntu)](https://help.ubuntu.com/community/AptGet/Howto) and [brew (for MacOSX)](https://brew.sh/). 
 
