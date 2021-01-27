@@ -49,6 +49,6 @@ git add *     # adds _index.md & avatar.jpg to your commit
 git commit -m "Adding <YourLastName>"
 git push
 ```
-There you go! You'll find your new version of the website on github instantly, and mcfarlandlab.org will update shortly thereafter. 
+There you go! You'll find your new version of the website on github instantly, and www.mcfarlandlab.org will update shortly thereafter. 
 
-Now, if we were working on a mission critical project, I wouldn't give you write privledges to this repo. Instead, to contribute you would branch the main project and the submit a 'pull request', which I would then review and assimilate into the main branch. However, I wanted to keep your first git project simple :). 
+Now, if we were working on a mission critical project, I wouldn't give you write privledges to this repo. Instead, to contribute you would branch the main project and the submit a 'pull request', which I would then review and assimilate into the main branch. However, we'll keep your first pull simple :). 
