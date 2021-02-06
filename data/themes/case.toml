@@ -9,8 +9,8 @@ name = "case"
 light = true
 
 # Primary
-primary = "#0a3043"
-
+#primary = "#0a3043"
+primary = "#044d7f"
 # Menu
 menu_primary = "#0a304e"
 menu_text = "#cee4ea"

@@ -7,17 +7,16 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Meet the Team"
-subtitle = "(click for bio)"
+title = "People"
+#subtitle = "(click for bio)"
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Principal Investigator",
-                 "Researchers",
+  user_groups = ["Faculty & Staff",
+                 "Postdocs",
                  "Grad Students",
-                 "Administration",
-                 "Visitors",
+                 "Undergraduates", 
                  "Alumni"]
 
 [design]

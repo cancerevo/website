@@ -5,7 +5,7 @@
 {{ $page := .page }}
 {{ $show_social := $page.Params.design.show_social | default false }}
 {{ $show_interests := $page.Params.design.show_interests | default true }}
-
+{{ $show_shortbio := $page.Params.design.show_shortbio | default true }}
 
 <div class="row justify-content-center people-widget">
   {{ with $page.Title }}
@@ -37,7 +37,7 @@
   {{ with site.GetPage (printf "/authors/%s" (path.Base (path.Split .Path).Dir)) }}
     {{ $link = .RelPermalink }}
   {{ end }}
-  <div class="col-12 col-sm-auto people-person">
+  <div class="col-12 col-sm-auto col-md-4 people-person">
     {{ $src := "" }}
     {{ if site.Params.avatar.gravatar }}
       {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
@@ -55,6 +55,14 @@
       {{ with .Params.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
       {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
       {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
+      {{ if $show_shortbio }}<p class="summary">{{ .Summary | markdownify | emojify  }}</p>{{end}}
+    
+{{ if .Truncated }}
+  <div class="read-more-link">
+    <a href="{{ .RelPermalink }}">Read More…</a>
+  </div>
+  {{ end }}
+
     </div>
   </div>
   {{ end }}
@@ -65,4 +73,6 @@
     box-shadow: 0px 0px 10px rgba(10, 48, 67, 0.9);
 }
 </style>
+
+
 </div>
