@@ -109,10 +109,15 @@ address = {street = "2109 Adelbert Rd", city = "Cleveland", region = "OH", postc
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "41.50453", longitude = "-81.60427"}
+#coordinates = {latitude = "41.50453", longitude = "-81.60427"}
 
 # Directions for visitors to locate you.
-directions = "Biomedical Research Building, Rm. 821, 2109 Adelbert Rd, Cleveland, OH 44106"
+directions = """[Biomedical Research Building](https://goo.gl/maps/AQwb6hJZCNdFCA3S8)<br>
+Rm. 723 (Office)<br>
+Rm. 704 B4 - B5 (Lab)<br>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2987.9813920604397!2d-81.6058612!3d41.504678049999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8830fb862261de6d%3A0x936460f1008139ba!2sBiomedical%20Research%20Building!5e0!3m2!1sen!2sus!4v1612572854560!5m2!1sen!2sus" 
+width="100%" height="340" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+"""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -266,7 +271,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 1
+  engine = 0
   api_key = "AIzaSyBmoPm4gWlgnNq6CZGhRPiXsbRuTxSYgGY"
   zoom = 15
 
