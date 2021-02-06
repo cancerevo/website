@@ -45,7 +45,7 @@ nano _index.md
 
 5. If all looks good, commit your changes, and push to github: 
 ```sh
-git add *     # adds _index.md & avatar.jpg to your commit
+git add *     # adds all changes that you made to your commit (do just "git add _index.md avatar.jpg" if you edited other files)
 git commit -m "Adding <YourLastName>"
 git push
 ```
