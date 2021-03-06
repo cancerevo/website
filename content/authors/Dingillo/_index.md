@@ -49,10 +49,10 @@ education:
   courses:
   - course: Master's in Medical Science
     institution: Boston University
-    year: XXXX
+    year: 2019
   - course: B.S. in Biophysics
     institution: Loyola University Chicago
-    year: XXXX
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
