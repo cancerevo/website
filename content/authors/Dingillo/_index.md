@@ -89,10 +89,8 @@ education:
 ---
 
 Gianna studied biophysics at Loyola University Chicago and earned her master's in medical science at Boston University. 
-
 <!--more--> 
 <!--- The line above ends your frontpage summary. If your bio is 3 sentences or less, just remove it (you don't need a 'read more'). -->
-
 In the past, she has done biophysics research on DNA three-way junctions and clinical research on diabetic retinopathy. 
 She is interested in oncology and cancer research! 
 
