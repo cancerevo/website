@@ -14,7 +14,9 @@ Everyone in the Cancer Evolution group is committed to fostering a better living
 
 <details>
  <summary><b>Postdoctoral Scholars</b></summary>
-<p><i>We are recruiting postdocs today!</i> Informal inquiries and applications (CV & two reference letters) are welcome. 
+<p><i>We are recruiting two postdocs!</i> 
+Informal inquiries and applications are welcome
+(<a href="https://case.edu/academic-careers/postdoctoral-scholar-genetics-and-genome-sciences">details here</a>).
 Please email <a href="#contact">Prof. McFarland</a>. 
 </p>
 There are also several internal and external fellowships/supplements

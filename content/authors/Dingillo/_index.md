@@ -1,20 +1,20 @@
 ---
 # Username (this should match the folder name, which should be your last name)
 authors:
-- Chan
+- McFarland
 
 # Display name
-title: Andrew Chan
+title: Gianna Dingillo 
 
-# Weight Determines your order on the list.
+# Weight Determines your order on the list. 
 # Do the Year/Month that you joined as a 4 digit #, i.e. YYMM  )
-weight: 2012
+weight: 2101
 
 # Is this the primary user of the site? <- Convert this to 'false'
-superuser: false
+superuser: true
 
 # Role/position
-role: Undergraduate Student
+role: Medical Student (M1)
 
 # Example options (can be whatever you want):
 # ------------------------------------------
@@ -31,25 +31,28 @@ role: Undergraduate Student
 user_groups:
 # - Faculty & Staff
 # - Postdocs
-# - Grad Students
- - Undergraduates
+ - Grad Students
+# - Undergraduates 
 # - Alumni
 
 # Organizations/Affiliations (URLs aren't necessary)
-# If you've declared a major, you can put that here.
+# If you've declared a major, you can put that here. 
 organizations:
 - name: Case Western Reserve University
-#- name: Department of Genetics & Genome Sciences
-#  url: "https://case.edu/medicine/genetics/"
-#- name: Case Comprehensive Cancer Center
-#  url: "https://case.edu/cancer/"
+- name: School of Medicine
+
+# Short bio (displayed in user profile at end of posts) This barely gets used, so don't bother. 
+bio: Gianna Dingillo is an M1 at Case Western Reserve University School of Medicine. She studied biophysics at Loyola University Chicago and earned her master's in medical science at Boston University. In the past, she has done biophysics research on DNA three-way junctions and clinical research on diabetic retinopathy. She is interested in oncology and cancer research! 
 
 # I'm using 'courses' to describe degrees
 education:
   courses:
-  - course: 
-    institution: Case Western Reserve University
-    year: 2024
+  - course: Master's in Medical Science
+    institution: Boston University
+    year: XXXX
+  - course: B.S. in Biophysics
+    institution: Loyola University Chicago
+    year: XXXX
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -57,23 +60,23 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 # You'll probably want to delete most of this. If you have a twitter presence or active linkedin/githup, please add.
-# However, don't put your CV and you probably don't want to put your email, unless you're ready for a bit of spam.
+# However, don't put your CV and you probably don't want to put your email, unless you're ready for a bit of spam. 
 
-social:
+#social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: mailto:christopher.mcfarland@case.edu
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/cd_mcfarland
-- icon: github
-  icon_pack: fab
-  link: https://github.com/chandrew314
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/cancerevo
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=TJk4tU0AAAAJ
 #- icon: cv
-# icon_pack: ai
+#  icon_pack: ai
 #  link: files/McFarland_CV.pdf
 #- icon: linkedin
 #  icon_pack: fab
@@ -82,13 +85,14 @@ social:
 
 # Alas, your bio. Please put 1-5 sentences describing your background and 1-5 sentences describing your interests.
 # Mine is a tad longer and focused exclusively on background because my research interests are elsewhere on the site.
-# Everything below the --- is rendered in Markdown.
+# Everything below the --- is rendered in Markdown. 
 ---
 
-My first experience in research was in [Dr. Wenjun Zhang's lab](http://www.cchem.berkeley.edu/wzgrp/) at UC Berkeley where I studied natural product production of anaerobic bacteria.
-<!--more-->
+Gianna studied biophysics at Loyola University Chicago and earned her master's in medical science at Boston University. 
+
+<!--more--> 
 <!--- The line above ends your frontpage summary. If your bio is 3 sentences or less, just remove it (you don't need a 'read more'). -->
-This research ultimately helped me realize that I wanted to understand biology in a more quantitative manner. 
-The lab's use of theoretical and experimental techniques to investigate cancer evolution appealed to me because I could learn how to use quantitative methods to better understand biological processes.
-In the lab, I'm developing computational and mathematical models of cancer tumor growth and evolution to understand the effects of tumor ploidy changes.
+
+In the past, she has done biophysics research on DNA three-way junctions and clinical research on diabetic retinopathy. 
+She is interested in oncology and cancer research! 
 
