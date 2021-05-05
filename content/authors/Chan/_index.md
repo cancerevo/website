@@ -47,7 +47,7 @@ organizations:
 # I'm using 'courses' to describe degrees
 education:
   courses:
-  - course: 
+  - course: Undeclared 
     institution: Case Western Reserve University
     year: 2024
 
