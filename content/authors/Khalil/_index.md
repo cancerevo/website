@@ -61,7 +61,9 @@ education:
     year: 2013
 
 social:
-
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=uUYdmn4AAAAJ 
 ---
 
 I am interested in the fields of translational genomics and molecular oncology. 
