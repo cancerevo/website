@@ -43,6 +43,9 @@ organizations:
   url: "https://case.edu/medicine/genetics/"
 - name: Case Comprehensive Cancer Center
   url: "https://case.edu/cancer/"
+- name: Systems Biology and Bioinformatics (SYBB)
+  url: https://case.edu/medicine/nutrition/education-programs/phd-programs-nutrition-and-systems-biology-bioinformatics/sybb-phd-program
+
 
 # Short bio (displayed in user profile at end of posts) This barely gets used, so don't bother. 
 bio: 
