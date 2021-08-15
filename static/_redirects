@@ -1,5 +1,25 @@
 # see https://docs.netlify.com/routing/redirects/
+# Useful links: always single-word & lowercase
+
+/master     https://docs.google.com/document/d/1yr4lDXGoi8mM_A2GVF4gJTrJKfeobw-rWStKsoJ0Qrw
+
 /zoom       https://cwru.zoom.us/j/8863868547?pwd=QWpndGJKUlB5YXc5NzgxU0w4L2dmUT09
+/slack      http://cancerevoworkspace.slack.com
+/cal        https://calendar.google.com/calendar/u/1?cid=Y19kZmkydDJwZjBscG4xdGRmcWtsbzdnaGRrZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t
+/schedule   https://docs.google.com/spreadsheets/d/199gOOEzilUia-9sOePc8X90RP860VUcUtdmXI0GBWp4
+/drive      https://docs.google.com/document/d/1yr4lDXGoi8mM_A2GVF4gJTrJKfeobw-rWStKsoJ0Qrw
+
+/osha       https://case.edu/ehs/training/laboratory-standard
+/safety     https://case.edu/ehs/training/laboratory-standard
+/ibc        https://docs.google.com/forms/d/e/1FAIpQLSfvOGR9WLmp1-ojY-GfIrd8WZvfuYdrb-NeWBIb3c7YKwuv9w/viewform
+/vectors    https://docs.google.com/spreadsheets/d/1CDAsD8IoBpvM5RKq2_cqEiXRGGPKZgW4GgWiLPfeCC8/edit
+/iacuc      https://docs.google.com/forms/d/18Nz8Ed1qprmdlZ06_MzhTtpNVbhREvDUO-nayXevrkc/viewform
+/mice       https://docs.google.com/document/d/1Vzk5dtK3FTXRqbrAMHe5s4Wo8NXN3e3EyLuLIEMKZc0/edit
+
+/github     https://github.com/cancerevo
+/hpc        https://sites.google.com/a/case.edu/hpcc/hpc-cluster/adding-a-user?authuser=0
+/software   https://docs.google.com/document/d/1tLJTrE82GlZa6biOAKrccgeGquOmrdeXmEInGIRiW1A/edit
+
 /JCzoom     https://washington.zoom.us/j/99398657137
 /JC         https://tinyurl.com/yaqegysy
 
