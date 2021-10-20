@@ -16,7 +16,7 @@ Everyone in the Cancer Evolution group is committed to fostering a better living
  <summary><b>Lab Manager/Technician</b></summary>
 We are aggressively recruiting a lab manager <i>and</i> a technician. Our lab has funding to support folks looking for a long-term position, 
 and will also support folks interested in attending graduate school down the road.  
-
+</p>
 Details of the 
 <a href="https://case.edu/medicine/genetics/sites/case.edu.genetics/files/2021-10/9367_Research_Assistant_4.pdf">Senior</a> and 
 <a href="https://case.edu/medicine/genetics/sites/case.edu.genetics/files/2021-10/9406_%20Research_Assistant_1.pdf">Junior</a>

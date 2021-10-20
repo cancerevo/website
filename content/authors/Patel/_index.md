@@ -30,11 +30,11 @@ role: Research Assistant
 
 # Organizational group (*must* be one of the options below):
 user_groups:
- - Faculty & Staff
+# - Faculty & Staff
 # - Postdocs
 # - Grad Students
 # - Undergraduates 
-# - Alumni
+ - Alumni
 
 # Organizations/Affiliations (URLs aren't necessary)
 # If you've declared a major, you can put that here. 
@@ -89,5 +89,6 @@ education:
 Bindi's Masters thesis studied the use of plant viral nanoparticles for cancer immunotherapy in [Steinmetz' lab](https://www.steinmetzlab.com/3010867-welcome-cwru) at Case. 
 <!--more--> 
 Following her master's, she worked at two industry startups where she researched non-invasive glucose monitoring and cancer cell intrinsic immunotherapy.
-She is now focused on extending the Tuba-seq technology to model sequential tumorigenic events and intra-tumor heterogeneity via serial transductions.
+Bindi focused on extending the Tuba-seq technology to model sequential tumorigenic events and intra-tumor heterogeneity via serial transductions, and is
+now working successfully with her old employer - Arcus Biosciences. 
 
