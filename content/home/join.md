@@ -8,19 +8,28 @@ title = "Join Us!"
 subtitle = ""
 
 +++
-Scientists of all academic levels are encouraged to apply. All students and researchers must be team players, demonstrate scientific curiosity and self-motivation, and articulate a scientific vision that aligns with the lab’s goals. Both life & physical scientists; MD & PhD students; and wet- and dry-lab specialists are encouraged to apply. 
+Scientists of all academic levels are encouraged to apply. All members must be team players, demonstrate scientific curiosity and self-motivation, and articulate a scientific vision that aligns with the lab’s goals. Both life & physical scientists; MD & PhD students; and wet- and dry-lab specialists are encouraged to apply. 
 
 Everyone in the Cancer Evolution group is committed to fostering a better living and learning environment. We value equity and inclusion, and celebrate diversity in all forms. 
 
 <details>
+ <summary><b>Lab Manager/Technician</b></summary>
+We are aggressively recruiting a lab manager <i>and</i> a technician. Our lab has funding to support folks looking for a long-term position, 
+and will also support folks interested in attending graduate school down the road.  
+
+Details of the 
+<a href="https://case.edu/medicine/genetics/sites/case.edu.genetics/files/2021-10/9367_Research_Assistant_4.pdf">Senior</a> and 
+<a href="https://case.edu/medicine/genetics/sites/case.edu.genetics/files/2021-10/9406_%20Research_Assistant_1.pdf">Junior</a>
+positions. 
+</details>
+
+<details>
  <summary><b>Postdoctoral Scholars</b></summary>
-<p><i>We are recruiting two postdocs!</i> 
-Informal inquiries and applications are welcome
-(<a href="https://case.edu/academic-careers/postdoctoral-scholar-genetics-and-genome-sciences">details here</a>).
-Please email <a href="#contact">Prof. McFarland</a>. 
+Please email <a href="#contact">Prof. McFarland</a> with a Cover Letter and CV.  
 </p>
-There are also several internal and external fellowships/supplements
-(e.g. <a href="https://case.edu/cancer/training-education/postdoctoral-training">CoGEC</a>) that I am happy to discuss and sponsor (some require US citizenship). 
+There are also several internal and external fellowships
+(e.g. <a href="https://case.edu/cancer/training-education/postdoctoral-training">CoGEC</a>) that I am happy to discuss and sponsor (some require US citizenship), 
+however supplemental funding is not necessary to join our group.
 </details>
 
 <details>
