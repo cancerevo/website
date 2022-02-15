@@ -41,7 +41,7 @@ however supplemental funding is not necessary to join our group.
   first joint MD-PhD program in 1956</a> (apply <a href="https://case.edu/medicine/admissions-programs/md-phd-program">here</a>). 
   Our PhD only program is equally integrative:  
     students submit a single application, choose from over 30 programs, rotate within <strong>any</strong> lab accepting students, 
-  and then join whichever program best suits their integrative educational goals. You are not the property of a department at Case.
+  and then join whichever program best suits their integrative educational goals (apply <a href="https://case.edu/medicine/bstp/">here</a>). You are not the property of a department at Case.
 </p> 
   Please mention Prof. McFarland in your cover letter, so that I can be sure to review your application. 
   You are also encouraged to <a href="#contact">contact me</a> directly (before or after applying) to discuss fit.
