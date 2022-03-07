@@ -86,7 +86,7 @@ I am interested in cancer genomics, high-throughput screening, and developing CR
 <!--more--> 
 <!--- The line above ends your frontpage summary. If your bio is 3 sentences or less, just remove it (you don't need a 'read more'). -->
 
-As a graduate student at Tulane I studied genomic instability in the context of retrotransposons. To limit the genotoxic effect of retrotransposition cells utilize the cellular DNA repair machinery. As a postdoc at St. Jude
+As a graduate student at Tulane I studied genomic instability in the context of retrotransposons. To limit the genotoxic effect of retrotransposition, cells utilize their cellular DNA repair machinery. As a postdoc at St. Jude
 Children's Research Hospital I examined the genomic landscape of core-binding factor acute myeloid leukemia as part of the Pediatric Cancer Genome Project. After coming to CWRU my focus switched from the genome to the eipgenome,
 where I studied changes in the enhancer landscape in cancer. Most recently I was part of a team that described the epigenetic content of extrachromosomal DNAs (ecDNAs) in glioblastoma. We showed that coamplified noncoding DNA on ecDNAs
 contain functional enhancers that interact with the amplified oncogene. Silencing of the coamplifed enhancers resulted in decrease in cellular fitness and could represent a unique dependency in ecDNA containing tumors.
