@@ -60,15 +60,15 @@ subtitle = ""
  css_class = ""
 +++
 
-Advances in genomic and computational technologies are revolutionizing the study of cancer biology. 
+Technological advances in genomics and computation are revolutionizing our understanding of cancer. 
 We believe these advances will make sense only in the light of evolution.
-Specifically, we believe that evolutionary theory can help answer some of the most enigmatic aspects of tumor biology, including: 
+Specifically, we believe evolutionary theory can answer many of the most enigmatic aspects of tumor biology, including: 
 
 * Why do most tumors never progress to malignancy? 
 
-* Why are mutations that drive growth in one tumor maladaptive in another (and why do some combinations of mutations drive carcinogenesis, while others fail)? 
+* Why are mutations that drive growth in one tumor maladaptive in another? 
 
-* Why do most other ‘passenger’ mutations appear to be unaffected by natural selection?
+* Why do the other ‘passenger’ mutations appear to be unaffected by natural selection?
 
-To answer these questions, our lab pursues an interdisciplinary and inter-laboratory approach that combines experiment and theory with the development of new technologies.
+To answer these questions, our lab pursues an interdisciplinary and inter-laboratory approach that combines experiment and theory with tech development.
 
