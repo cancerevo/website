@@ -40,7 +40,7 @@ however supplemental funding is not necessary to join our group.
   <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5617793/#:~:text=In%201956%2C%20Western%20Reserve%20University,was%20introduced%20in%20the%201950s.">
   first joint MD-PhD program in 1956</a> (apply <a href="https://case.edu/medicine/admissions-programs/md-phd-program">here</a>). 
   Our PhD only program is equally integrative:  
-    students submit a single application, choose from over 30 programs, rotate within <strong>any</strong> lab accepting students, 
+    students submit a single application, choose from over 30 programs in the life and medical sciences, rotate within <strong>any</strong> lab accepting students, 
   and then join whichever program best suits their integrative educational goals (apply <a href="https://case.edu/medicine/bstp/">here</a>). You are not the property of a department at Case.
 </p> 
   Please mention Prof. McFarland in your cover letter, so that I can be sure to review your application. 
