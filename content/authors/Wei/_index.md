@@ -39,30 +39,28 @@ user_groups:
 # If you've declared a major, you can put that here. 
 organizations:
 - name: Biochemistry
-
-# Organizations/Affiliations (URLs aren't necessary)
-# If you've declared a major, you can put that here. 
-organizations:
 - name: Case Western Reserve University
 - name: School of Medicine
 
 # Short bio (displayed in user profile at end of posts) This barely gets used, so don't bother. 
 bio: 
 
+I am researching the consequence of heterozygous tumor suppressor losses in vivo by CRISPR/Cas9 mediated Allele-Specific Gene Editing.
 
 # I'm using 'courses' to describe degrees
 education:
   courses:
-  - course: B.S. Nutrition and Dietetics,
-    institution: American University of Beirut
-    year: 2014
-  - course: Minor in Public Health
+  - course: M.S. Biochemistry
+    institution: Case Western Reserve University 
+    year: Anticipated 2022
+  - course: B.S. Biological Sciences
+    institution: Xi‘an Jiaotong-Liverpool University
+    year: 2020
 
 ---
+I am researching the consequence of heterozygous tumor suppressor losses in vivo by CRISPR/Cas9 mediated Allele-Specific Gene Editing.
 
-I am interested in studying cancer as it has a significant impact on public health.
 <!--more--> 
-I became passionate about public health when I was pursuing my BS in nutrition. I decided to devote my life to community nutrition because of its importance to public health. Better nutrition is our most effective way to prevent diseases and many children in disadvantaged communities don’t know how to eat healthily. 
 
-I joined the Cancer Evolution lab in the winter of 2022 to work in a university lab in the US before pursuing a master’s degree in Public Health. I am excited to understand how cancers behave and consequently coming up with new ways to treat them. In the lab, I am developing a new approach to model heterozygous cancer-causing mutations in mice using CRISPR/Cas gene editing. 
+During an internship experience at the Chinese Academy of Sciences, I first received scientific research training on protein ubiquitination and became fascinated with biology. This inspired me to research liver fibrosis and found that Gant61 ameliorates CCl4-induced liver fibrosis by inhibition of Hedgehog signaling activity. I then worked on a graduation project to understand honeybee hive collapse caused by the honeybee parasite, Lotmaria passim. I used CRISPR/Cas9 to identify genes necessary for parasite infection. After working in these different fields, I became excited about cancer research. Because cancer is a problem of ageing, it is becoming increasingly important that we find a cure. While it is one of the most feared diseases, I believe this is a promising time. Now in the Cancer Evolution lab, I am researching the consequence of heterozygous tumor suppressor losses in vivo by extending CRISPR/Cas9 technologies using Tuba-seq. Over 80% of mutations in tumors suppressors in human patients are heterozygous, while nearly all research focuses on homozygous losses. We need better models for these mutations.
 
