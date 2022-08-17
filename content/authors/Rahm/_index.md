@@ -52,8 +52,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts) This barely gets used, so don't bother. 
 bio: 
-
-I am interested in studying cancer as it has a significant impact on public health.
+    I am interested in studying cancer as it has a significant impact on public health.
 
 # I'm using 'courses' to describe degrees
 education:

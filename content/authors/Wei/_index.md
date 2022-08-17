@@ -44,8 +44,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts) This barely gets used, so don't bother. 
 bio: 
-
-I am researching the consequence of heterozygous tumor suppressor losses in vivo by CRISPR/Cas9 mediated Allele-Specific Gene Editing.
+    I am researching the consequence of heterozygous tumor suppressor losses in vivo by CRISPR/Cas9 mediated Allele-Specific Gene Editing.
 
 # I'm using 'courses' to describe degrees
 education:
