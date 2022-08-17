@@ -31,9 +31,9 @@ role: Medical Student (M1)
 user_groups:
 # - Faculty & Staff
 # - Postdocs
- - Grad Students
+# - Grad Students
 # - Undergraduates 
-# - Alumni
+ - Alumni
 
 # Organizations/Affiliations (URLs aren't necessary)
 # If you've declared a major, you can put that here. 

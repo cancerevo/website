@@ -8,7 +8,7 @@ title: Zach Faber
 
 # Weight Determines your order on the list. 
 # Do the Year/Month that you joined as a 4 digit #, i.e. YYMM  )
-weight: 2202
+weight: 2201
 
 # Is this the primary user of the site? <- Convert this to 'false'
 superuser: false
