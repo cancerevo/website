@@ -51,8 +51,7 @@ organizations:
 bio: 
   Chris obtained a PhD from Harvard University in Biophysics under the guidance of [Leonid Mirny](http://mirnylab.mit.edu/), 
   studying the effects of deleterious passenger mutations in cancer. 
-  Working with [Dmitri Petrov](http://petrov.stanford.edu/) and [Monte Winslow](https://med.stanford.edu/winslowlab.html) at Stanford University as a Postdoc,
-  Chis helped develop a high-throughput technology to study combinatorial tumor suppressor losses in mice and their effects on clonal dynamics. 
+  As a postdoc, Chis helped develop a high-throughput technology to study combinatorial tumor suppressor losses in mice and their effects on clonal dynamics. 
 
 # I'm using 'courses' to describe degrees
 education:
@@ -81,7 +80,7 @@ social:
   link: mailto:christopher.mcfarland@case.edu
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/cd_mcfarland
+  link: https://twitter.com/CancerEvoLab
 - icon: github
   icon_pack: fab
   link: https://github.com/cancerevo
@@ -101,18 +100,20 @@ social:
 # Everything below the --- is rendered in Markdown. 
 ---
 
-My interest in scientific research began at the age of 16 in the [Morse Lab](https://www.wadsworth.org/senior-staff/randall-morse) studying gene regulation. 
+I fell in love with scientific research at the age of 16 in the [Morse Lab](https://www.wadsworth.org/senior-staff/randall-morse) studying gene regulation. 
 
 <!--more--> 
 <!--- The line above ends your frontpage summary. If your bio is 3 sentences or less, just remove it (you don't need a 'read more'). -->
 
-In college, I studied protein folding in the [Dumont Lab](https://www.urmc.rochester.edu/labs/dumont.aspx). As a graduate student under the guidance of 
-Prof. [Leonid Mirny](http://mirnylab.mit.edu/), I began studying cancer evolution. I argued that tumors harbor many 'deleterious passenger' mutations that 
+<!-- In college, I studied protein folding in the [Dumont Lab](https://www.urmc.rochester.edu/labs/dumont.aspx). --> 
+As a graduate student under the guidance of Prof. [Leonid Mirny](http://mirnylab.mit.edu/), 
+I began studying cancer evolution. I argued that tumors harbor many deleterious passenger mutations that 
 are harmful to cancer cells, yet nevertheless accumulate and can induce tumor dormancy. These mutations may be exploitable by existing therapies, including 
 those that target heat shock pathways and the proteasome.
 
-Working with [Dmitri Petrov](http://petrov.stanford.edu/) and [Monte Winslow](https://med.stanford.edu/winslowlab.html) at Stanford University as a Postdoc,
-I helped develop a high-throughput technology that combined DNA barcoding with multiplexed CRISPR-based genome engineering to study combinatorial tumor suppressor 
-losses in mice. This approach discovered a rugged fitness landscape of context dependencies between cancer-causing mutations.
+As a postdoc in [Dmitri Petrov](http://petrov.stanford.edu/) and [Monte Winslow's](https://med.stanford.edu/winslowlab.html) groups at Stanford University,
+I co-developed TuBa-seq: a Genetically-Engineered Mouse Model (GEMM) that combines **Tu**mor **Ba**rcoding with multiplexed CRISPR/Cas gene editing and next-generation DNA **seq**uencing. 
+We tracked cancer progression with unprecedented precision and genomic-comprehensiveness _in vivo_ 
+and discovered a rugged fitness landscape of interactions among cancer-causing mutations. 
 
-I joined Case in the fall of 2020.
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2J0Nzw3o2Ooc0JyEeXZ5M4?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
