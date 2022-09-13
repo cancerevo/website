@@ -1,4 +1,3 @@
-
 +++
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -9,7 +8,7 @@ weight = 10
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
-![image alt text](/img/banner.png)
+![The Cancer Evolution Lab @ CWRU](/img/banner.png)
 
 # Mission
 The development of cancer is a somatic evolutionary process. 

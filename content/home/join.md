@@ -1,13 +1,18 @@
+
 +++
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
-
 title = "Join Us!"
-subtitle = ""
+subtitle = "![Lab Meeting](/img/lab_bday.jpg)"
 
+weight = 50
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  lcolwidth = "8"
+  rcolwidth = "2"
 +++
+
 Scientists of all academic levels are encouraged to apply. All members must be team players, demonstrate scientific curiosity and self-motivation, and articulate a scientific vision that aligns with the lab’s goals. Both life & physical scientists; MD & PhD students; and wet- and dry-lab specialists are encouraged to apply. 
 
 Everyone in the Cancer Evolution group is committed to fostering a better living and learning environment. We value equity and inclusion, and celebrate diversity in all forms. 
@@ -24,7 +29,6 @@ Details of the
 positions. 
 </details>
 --->
-
 <details>
  <summary><b>Postdoctoral Scholars</b></summary>
 Please email <a href="#contact">Prof. McFarland</a> with a Cover Letter and CV.  
@@ -44,7 +48,7 @@ however supplemental funding is not necessary to join our group.
   and then join whichever program best suits their integrative educational goals (apply <a href="https://case.edu/medicine/bstp/">here</a>). You are not the property of a department at Case.
 </p> 
   Please mention Prof. McFarland in your cover letter, so that I can be sure to review your application. 
-  You are also encouraged to <a href="#contact">contact me</a> directly (before or after applying) to discuss fit.
+  You are also encouraged to` <a href="#contact">contact me</a> directly (before or after applying) to discuss fit.
 </details>
 
 <details>
@@ -63,3 +67,4 @@ however supplemental funding is not necessary to join our group.
  Please refer to these <a href="https://case.edu/source/find-programs-and-funding/campus-based-summer-positions">SOURCE guidelines</a> 
  when contacting labs at Case.
 </details>
+
