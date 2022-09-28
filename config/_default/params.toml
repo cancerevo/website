@@ -78,7 +78,7 @@ privacy_pack = false
 edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
 
 # Show related content at the bottom of pages?
-show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true}
+show_related = {docs = true, page = false, post = false, project = false, publication = true, talk = true}
 
 ############################
 ## Contact details
@@ -105,7 +105,8 @@ phone = "(216) 368-3286"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "2109 Adelbert Rd", city = "Cleveland", region = "OH", postcode = "44106", country = "United States", country_code = "US"}
+address = {}
+#street = "2109 Adelbert Rd", city = "Cleveland", region = "OH", postcode = "44106", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -132,7 +133,7 @@ appointment_url = "" #Pronouns: he/him"
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "cd_mcfarland"
+twitter = "CancerEvoLab"
 
 ############################
 ## Regional Settings

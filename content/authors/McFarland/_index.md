@@ -100,12 +100,8 @@ social:
 # Everything below the --- is rendered in Markdown. 
 ---
 
-I fell in love with scientific research at the age of 16 in the [Morse Lab](https://www.wadsworth.org/senior-staff/randall-morse) studying gene regulation. 
-
-<!--more--> 
-<!--- The line above ends your frontpage summary. If your bio is 3 sentences or less, just remove it (you don't need a 'read more'). -->
-
 <!-- In college, I studied protein folding in the [Dumont Lab](https://www.urmc.rochester.edu/labs/dumont.aspx). --> 
+I fell in love with scientific research at the age of 16 in the [Morse Lab](https://www.wadsworth.org/senior-staff/randall-morse) studying gene regulation. 
 As a graduate student under the guidance of Prof. [Leonid Mirny](http://mirnylab.mit.edu/), 
 I began studying cancer evolution. I argued that tumors harbor many deleterious passenger mutations that 
 are harmful to cancer cells, yet nevertheless accumulate and can induce tumor dormancy. These mutations may be exploitable by existing therapies, including 

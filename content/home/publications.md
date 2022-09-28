@@ -38,6 +38,7 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   view = 1
+  rcolwidth = 12
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -61,7 +62,7 @@ subtitle = ""
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "div { column-width: 100px; }"
  
  # CSS class.
  css_class = ""
