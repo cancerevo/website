@@ -30,11 +30,8 @@ role: PhD student
 
 # Organizational group (*must* be one of the options below):
 user_groups:
- - Grad Students
-# - Postdocs
 # - Grad Students
-# - Undergraduates 
-# - Alumni
+ - Alumni
 
 # Organizations/Affiliations (URLs aren't necessary)
 # If you've declared a major, you can put that here. 
