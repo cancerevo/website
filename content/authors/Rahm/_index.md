@@ -29,11 +29,11 @@ role: Research Assistant
 
 # Organizational group (*must* be one of the options below):
 user_groups:
- - Faculty & Staff
+# - Faculty & Staff
 # - Postdocs
 # - Grad Students
 # - Undergraduates 
-# - Alumni
+ - Alumni
 
 # Organizations/Affiliations (URLs aren't necessary)
 # If you've declared a major, you can put that here. 
