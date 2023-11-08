@@ -1,37 +1,35 @@
 ---
-#############
-# Username Latina
 authors:
-- McFarland
+- Parks
 
 # Display name
 title: Meaghan Parks
 
-# Weight Determines your order on the list. 
-# Do the Year/Month that you joined as a 4 digit #, i.e. YYMM  )
+# Weight Determines your order on the list, which 
+# we do chronologically. Do Year/Month of when you joined as 4 digits, i.e. YYMM  )
 weight: 2201
 
-# Is this the primary user of the site? <- Convert this to 'false'
+# Is this the primary user of the site? 
 superuser: false
 
-# Role/position
-role: PhD student 
-
+# Role/position (can be anything)
 # Example options (can be whatever you want):
 # ------------------------------------------
 # role: Research Associate
 # role: Postdoctoral Fellow
 # role: PhD Candidate
-# role: M.D. Student
+# role: MD Student
+# role: MD/PhD Student
 # role: Masters Student
 # role: Undergraduate Student
 # role: High School Student
 
+role: PhD student 
 
 # Organizational group (*must* be one of the options below):
 user_groups:
-# - Grad Students
- - Alumni
+ - Grad Students
+# - Alumni
 
 # Organizations/Affiliations (URLs aren't necessary)
 # If you've declared a major, you can put that here. 
