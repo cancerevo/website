@@ -81,9 +81,8 @@ social:
 # Everything below the --- is rendered in Markdown. 
 ---
 
-<!-- In college, I studied protein folding in the [Dumont Lab](https://www.urmc.rochester.edu/labs/dumont.aspx). --> 
 As an Undergraduate, I studied Biology with a focus on human genetics and evolution. During this time, I became fascinated with how these principles can be utilized to better understand and treat 
-disease. Prior to enrolling in graduate school, I spent two years at Dana Farber Cancer Institute in the lab of Dr. Rameen Beroukhim investigating and characterizing sequelae of structural variants 
-across tumors. At the intersection of my coursework and prior research, I have become curious about the implications of EMT and evolution of long-term drug resistance in tumors. 
-
+disease. Prior to enrolling in graduate school, I spent two years at the Dana Farber Cancer Institute in the lab of Dr. Rameen Beroukhim investigating and characterizing sequelae of structural variants 
+across tumors. At the intersection of my coursework and prior research, I have become curious about the implications of Epithelial-Mesenchymal Transitions (EMT) for the evolution of long-term drug resistance in tumors. 
+An EMT phenotype is a common resistance mechanism in cancer --- conferring terrible patient outcomes, and yet we do not understand the evolutionary constraints on how or when it will evolves.
 
