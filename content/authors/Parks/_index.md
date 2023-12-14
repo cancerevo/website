@@ -62,6 +62,5 @@ My research interests are focused on using programming and mathematics to aid in
 I first became excited about using mathematics to represent biological processes during my sophomore year at SUNY Geneseo when I took a class called Modeling Biological Systems. 
 I have recently received a Functional Genomics Training Program fellowship to support my research on the fitness landscape of cancers.  
 I will be applying Fisher’s Geometric Model and utilizing machine learning techniques to understand the complex patterns of epistasis in cancer. 
-This work may allow us to one day predict and control the behavior of cancer through evolutionary steering 
-([Acar et al. 2020](https://doi.org/10.1038/s41467-020-15596-z)),
-as well as helping us better group patients in clinical trials via genomic features.
+This work may allow us to one day predict and control the behavior of cancer through evolutionary steering ([Acar et al. 2020](https://doi.org/10.1038/s41467-020-15596-z)),
+as well as help us better categorize patients via genomic features.
