@@ -70,11 +70,11 @@ education:
 
 I am interested in studying emerging pathogens and infectious diseases associated with cancer. 
 <!--more--> 
-I hope to pursue a PhD in microbiology and immunology. 
 
 As a graduate student at Emory, I studied the seroprevalence of Heartland virus and how it affects Emory Healthcare patients as 
 part of the Georgia community. Separately, I co-authored a meta-analysis on the phylodynamics of 84 deer tick virus samples across 
 North America. We observed a population expansion within the past 50 years concordant with increasing human exposure. I am working 
 on a number of projects within the wet lab. My main project is working to extend the Tuba-seq technology to better model genetic 
 heterogeneity within tumors. Ultimately, this project will allow us to better model drug resistance in genetically-diverse tumors. 
+I hope to pursue a PhD in microbiology and immunology. 
 
