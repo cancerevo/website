@@ -2,7 +2,7 @@
 
 # The Cancer Evolution (McFarland) lab website
 
-This static website is built using the [Academic Template](https://academic-demo.netlify.app/) for hugo. It is deployed by Netlify at www.mcfarlandlab.org. 
+This static website is built using the [Academic Template](https://academic-demo.netlify.app/) for hugo. It is deployed by Netlify at canevo.org. 
 
 To onboard new labmembers to general software development procedures for the lab, I've created a short tutorial explaining how you can add yourself to this website. This task should familiarize you with Package Management Systems for installing software, and git - the most common version control system in use today. If you haven't used these systems, I'd first read about them a little bit. 
 
@@ -49,7 +49,7 @@ git add *     # adds all changes that you made to your commit (do just "git add 
 git commit -m "Adding <YourLastName>"
 git push
 ```
-There you go! You'll find your new version of the website on github instantly, and www.mcfarlandlab.org will update shortly thereafter. 
+There you go! You'll find your new version of the website on github instantly, and canevo.org will update shortly thereafter. 
 
 Now, if we were working on a mission critical project, I wouldn't give you write privledges to this repo. Instead, to contribute you would branch the main project and the submit a 'pull request', which I would then review and assimilate into the main branch. However, we'll keep your first pull simple :). 
 
