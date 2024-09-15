@@ -43,10 +43,10 @@ organizations:
   url: "https://case.edu/medicine/genetics/"
 - name: Artificial Intelligence enabling Disease Discovery, Associate Director
   url: "https://case.edu/medicine/aid2b/news-and-announcements/center-ai-enabling-discovery-disease-biology-aid2b"
-- name: Case Comprehensive Cancer Center, Member
-  url: "https://case.edu/cancer/"
 - name: Systems Biology and Bioinformatics (SYBB)
   url: https://case.edu/medicine/nutrition/education-programs/phd-programs-nutrition-and-systems-biology-bioinformatics/sybb-phd-program
+- name: Case Comprehensive Cancer Center, Member
+  url: "https://case.edu/cancer/"
 
 
 # Short bio (displayed in user profile at end of posts) This barely gets used, so don't bother. 
