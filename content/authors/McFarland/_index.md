@@ -41,7 +41,9 @@ organizations:
 - name: Case Western Reserve University
 - name: Department of Genetics & Genome Sciences
   url: "https://case.edu/medicine/genetics/"
-- name: Case Comprehensive Cancer Center
+- name: Artificial Intelligence enabling Disease Discovery, Associate Director
+  url: "https://case.edu/medicine/aid2b/news-and-announcements/center-ai-enabling-discovery-disease-biology-aid2b"
+- name: Case Comprehensive Cancer Center, Member
   url: "https://case.edu/cancer/"
 - name: Systems Biology and Bioinformatics (SYBB)
   url: https://case.edu/medicine/nutrition/education-programs/phd-programs-nutrition-and-systems-biology-bioinformatics/sybb-phd-program
